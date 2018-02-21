@@ -9,7 +9,6 @@ function preload() {
 
 }
 
-
 function create() {
     game.physics.startSystem(Phaser.physics.arcade);
     game.add.sprite(0, 0, 'sky');
